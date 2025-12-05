@@ -1,0 +1,33 @@
+{
+  "codes": {
+    "393d90c0": 6024551445,
+    "ff8dcb50": 642981227,
+    "1de9f178": 6272029229,
+    "84f58600": 5272130342
+  },
+  "invites": {
+    "6024551445": {
+      "code": "393d90c0",
+      "contributors": [],
+      "reward_sent": false
+    },
+    "642981227": {
+      "code": "ff8dcb50",
+      "contributors": [
+        6024551445,
+        6298538729
+      ],
+      "reward_sent": false
+    },
+    "6272029229": {
+      "code": "1de9f178",
+      "contributors": [],
+      "reward_sent": false
+    },
+    "5272130342": {
+      "code": "84f58600",
+      "contributors": [],
+      "reward_sent": false
+    }
+  }
+}
